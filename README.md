@@ -27,6 +27,14 @@
 - The testing situation of high current draw is shown in the following video.
 - https://youtu.be/hfKjkCVAcGg
 
+  
+### Enclosure Design.
+![Screenshot (234)](https://github.com/FernandopulleNK/Multifunctional_Smart_Power_Supply/assets/128304706/5a6db0a6-96b3-4bb5-a7ad-981c5f618fa4)
+![Screenshot (237)](https://github.com/FernandopulleNK/Multifunctional_Smart_Power_Supply/assets/128304706/78287297-64ac-422d-9b3f-5463ff4bcfdc)
+![Screenshot (238)](https://github.com/FernandopulleNK/Multifunctional_Smart_Power_Supply/assets/128304706/72d31c3c-5b5a-4de8-ba56-3bf4a31e01de)
+
+
+
 - This power supply was used to power up our robot arm, which required a high current to drive seven motors, and it was showcased at the EXMO exhibition in 2023.
 - The following photo was taken while operating our robot arm at EXMO 2023.
 ![IMG_0981](https://github.com/FernandopulleNK/Multifunctional_Smart_Power_Supply/assets/128304706/9e119e32-7372-40e6-9705-57237f36f843)
